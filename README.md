@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(April 6, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Austin Hamlin)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(A jquery app that is response to the user and shows cooking recipes)
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://ah17u.github.io/lesson7_jquery/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Learned and implemented jquery syntax.)
+2. (Learned how to add colors when user hovers over header.)
+3. (Learned drop down menus when user clicks on header.)
 
